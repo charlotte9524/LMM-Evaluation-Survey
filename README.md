@@ -287,7 +287,7 @@ If you find our work useful, please cite our paper as:
 |     PrivQA      | [Can language models be instructed to protect personal information?](https://arxiv.org/abs/2310.02224) |                       *Not available*                        |
 |     SHIELD      | [Shield: An evaluation benchmark for face spoofing and forgery detection with multimodal large language models.](https://arxiv.org/abs/2402.04178) |       [GitHub](https://github.com/laiyingxin2/SHIELD)        |
 |   ExtremeAIGC   | [Extremeaigc: Benchmarking lmm vulnerability to ai-generated extremist content.](https://arxiv.org/abs/2503.09964) |                       *Not available*                        |
-
+|    WildVideo    | [WildVideo: Benchmarking LMMs for Understanding Video-Language Interaction.](https://ieeexplore.ieee.org/document/11097075) |       [GitHub](https://github.com/yangsongyuan18/WildVideo)        |
 ### Specialized
 
 #### Math
